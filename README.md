@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+**Arcane is the best netflix series ever**
+*I just love it so much*
